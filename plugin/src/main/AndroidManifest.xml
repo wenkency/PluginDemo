@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.lven.plugin">
+
+    <application>
+        <activity android:name=".prxy.ProxyActivity" />
+        <service android:name=".prxy.ProxyService" />
+    </application>
+</manifest>
